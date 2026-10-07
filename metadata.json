@@ -1,0 +1,6 @@
+{
+  "name": "HOUZ - American Model Archive & 4K Glamour Wallpapers",
+  "description": "Exclusive American fashion models, editorial portraits, and ultra-HD 4K wallpapers from Beverly Hills, Miami, and New York.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
